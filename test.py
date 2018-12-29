@@ -11,7 +11,6 @@ data, sw1, sw2 = connection.transmit( SELECT + DF_TELECOM )
 print "%x %x" % (sw1, sw2)
 
 #edit by pynux
-#tianjaiceshi--yangmei
 
 
 
